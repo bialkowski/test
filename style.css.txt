@@ -1,2 +1,2 @@
 body { background: red; }
-a { color: blue; }
+a { color: blue; font-size: 12px; }
